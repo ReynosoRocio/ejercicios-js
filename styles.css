@@ -4,7 +4,7 @@
   flex-direction: column;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  background-color: #d369ce;
+  background-color: #a2d186;
   height: 100vh;
   padding: 20px;
 }
@@ -12,7 +12,7 @@
 .line {
   width: 100%;
   height: 4px;
-  background-color: #72e8d8;
+  background-color: #63a39b;
   margin-bottom: 20px;
 }
 
@@ -34,4 +34,8 @@ li {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+}
+
+div {
+margin-top: 20px;
 }
