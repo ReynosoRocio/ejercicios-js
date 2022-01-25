@@ -90,5 +90,5 @@ for(var i=1;i<49;i++){
 
 }
 
-document.getElementById('tres').innerText=fibo.slice(0,-2)+'.';
+document.getElementById('tres').innerText=fibo.slice(0,-2)+'...';
 
